@@ -1,3 +1,15 @@
+# Certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+*.p12
+*.pfx
+*.p12
+*.pfx
+
 .vscode/
 .DS_Store
 .directory
@@ -17,7 +29,6 @@ sdkconfig.old
 # CMake files
 CMakeCache.txt
 CMakeFiles/
-Makefile
 
 # Python environment files
 *.pyc
