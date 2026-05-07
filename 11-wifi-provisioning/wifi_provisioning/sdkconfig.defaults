@@ -1,0 +1,2 @@
+# ESP-IDF v6 defaults may disable protocomm security v1; this app uses NETWORK_PROV_SECURITY_1 (PoP).
+CONFIG_ESP_PROTOCOMM_SUPPORT_SECURITY_VERSION_1=y
